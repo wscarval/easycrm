@@ -39,7 +39,7 @@ Este projeto é um sistema completo com **Back-End em Node.js/TypeScript** e **F
 ### 📦 Back-End
 
 ```bash
-cd api-referrals
+cd easy-api
 npm install
 npx prisma generate
 npx prisma migrate dev --name init
@@ -49,7 +49,7 @@ npm run dev
 ### 💻 Front-End
 
 ```bash
-cd frontend-referrals
+cd easy-api-back
 npm install
 npm run dev
 ```
@@ -60,7 +60,7 @@ npm run dev
 
 - Node.js 18+ (recomendado)
 - MySQL rodando localmente
-- Docker (opcional para RabbitMQ)
+- Docker
 - Prisma CLI
 
 ---
