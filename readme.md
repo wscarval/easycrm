@@ -11,7 +11,7 @@ Este projeto é um sistema completo com **Back-End em Node.js/TypeScript** e **F
 |------------------|-------------------------------|------------------------------------------------------------------------|
 | Linguagem        | TypeScript                    | Tipagem estática para maior segurança e escalabilidade                 |
 | Servidor Web     | Express                       | Framework HTTP leve e flexível                                         |
-| Banco de Dados   | MySQL                         | Banco relacional                                                       |
+| Banco de Dados   | PostgreSQL                    | Banco relacional                                                       |
 | ORM              | Prisma                        | ORM moderno com migrations e tipagem                                   |
 | Mensageria       | RabbitMQ (`amqplib`)          | Processamento assíncrono com filas                                     |
 | Autenticação     | JWT (`jsonwebtoken`)          | Token seguro e stateless                                               |
